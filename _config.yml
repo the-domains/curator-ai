@@ -1,0 +1,28 @@
+name: Curator-Ai
+favicon: null
+layout_spectrum: 0.33851861441507936
+typography_spectrum: 0.5815795720554888
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.8630918967537582
+  lightness: 0.5444199717603624
+  saturation: 0.10003618476912379
+  rhythmicContrast: 0.5349568638484925
+purpose: []
